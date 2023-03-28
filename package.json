@@ -1,6 +1,7 @@
 {
 	"author": "Xtra",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Learn how to use package.json", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
